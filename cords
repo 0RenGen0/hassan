@@ -1,0 +1,9 @@
+{
+    "name": "RenGen-Sama",
+    "description": "Aqua za best.",
+    "version": "1",
+    "author": "変態ウォッチャー#3223",
+    "theme": "RenGen.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
